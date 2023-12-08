@@ -3,7 +3,7 @@ from PIL import Image
 import pickle as pkl
 import numpy as np
 
-class_list = {'0': 'Male', '1': 'Female'}
+class_list = {'0': 'FeMale', '1': 'Male'}
 
 st.title('Guess Gender via Name')
 
